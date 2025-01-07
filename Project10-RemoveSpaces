@@ -1,0 +1,5 @@
+def remove_spaces(text):
+    text2 = text.replace(" ", "")
+    return text2
+
+print(remove_spaces("hari ini"))
