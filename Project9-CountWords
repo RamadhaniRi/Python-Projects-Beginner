@@ -1,0 +1,5 @@
+def count_words(text):
+    a = text.split(" ")
+    return len(a)
+
+print(count_words("deni hari"))
